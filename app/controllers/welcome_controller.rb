@@ -4,4 +4,8 @@ class WelcomeController < ApplicationController
     # home action
   end
 
+  def about
+    # about action
+  end
+
 end
