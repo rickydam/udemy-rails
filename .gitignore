@@ -50,6 +50,8 @@ node_modules/
 # Ignore config files
 .idea
 .DS_STORE
+.generators
+.rakeTasks
 
 # See https://help.github.com/articles/ignoring-files for more about ignoring files.
 #
