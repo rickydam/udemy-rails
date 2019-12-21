@@ -12,12 +12,16 @@
   * render
   * boostrap
   * debugger view
+  * pluralize
+  * pagination
 * Rails
   * flash
   * redirect_to
   * render
   * before_action
   * before_save
+  * has_secure_password
+  * application_helper
 * Rails console
   * CRUD operations
   * user.errors.full_messages
