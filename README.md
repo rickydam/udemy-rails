@@ -10,7 +10,7 @@
   * form_for
   * partials
   * render
-  * boostrap
+  * bootstrap
   * debugger view
   * pluralize
   * pagination
