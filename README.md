@@ -25,4 +25,5 @@
 * Rails console
   * CRUD operations
   * user.errors.full_messages
+  * user.toggle!
 * byebug
