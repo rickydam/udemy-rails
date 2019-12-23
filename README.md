@@ -27,3 +27,7 @@
   * user.errors.full_messages
   * user.toggle!
 * byebug
+* Testing
+  * Unit tests
+  * Integration tests
+  * Functional tests
