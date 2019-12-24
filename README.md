@@ -29,6 +29,10 @@
   * CRUD operations
   * user.errors.full_messages
   * user.toggle!
+* Terminology
+  * bang operator !
+  * hash rocket operator =>
+  * shovel operator <<
 * byebug
 * Test Driven Development (TDD)
 * Testing
