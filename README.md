@@ -34,3 +34,6 @@
   * Unit tests
   * Integration tests
   * Functional tests
+* Tools
+  * Travis CI
+  * CodeCov
