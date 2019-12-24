@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/rickydam/udemy-rails.svg?branch=master)](https://travis-ci.org/rickydam/udemy-rails)
+[![codecov](https://codecov.io/gh/rickydam/udemy-rails/branch/master/graph/badge.svg)](https://codecov.io/gh/rickydam/udemy-rails)
 
 # Concepts I learned in this course
 * Attribute accessor `attr_accessor`
